@@ -7,7 +7,7 @@ A portfolio of **10 GIS applications** (5 web-based + 5 desktop) demonstrating e
 ## Web GIS Applications (5)
 
 ### WEB-01: Eastern Mau Forest LULC Change Web Map
-**Live**: [droneverse.pro/webmap/](https://droneverse.pro/webmap/) | **Code**: [GitHub](https://github.com/Papsmyk/Eastern-Mau-Forest-Reserve-Land-Cover-and-Land-Use-Change-Web-Map)
+**Live**: [papayai.droneverse.pro/webmap/](https://papayai.droneverse.pro/webmap/) | **Code**: [GitHub](https://github.com/Papsmyk/Eastern-Mau-Forest-Reserve-Land-Cover-and-Land-Use-Change-Web-Map)
 
 Interactive web map for visualizing 40 years of land cover changes in the Eastern Mau Forest Reserve.
 
@@ -23,7 +23,7 @@ Interactive web map for visualizing 40 years of land cover changes in the Easter
 ---
 
 ### WEB-02: Kenya Drone No-Fly Zone Platform
-**Live**: [droneverse.pro/drone-no-flyzone/](https://droneverse.pro/drone-no-flyzone/) | **Code**: [GitHub](https://github.com/Papsmyk/webmap-termpaper)
+**Live**: [papayai.droneverse.pro/drone-no-flyzone/](https://papayai.droneverse.pro/drone-no-flyzone/) | **Code**: [GitHub](https://github.com/Papsmyk/webmap-termpaper)
 
 Real-time compliance platform for drone operators in Kenya showing restricted airspace zones.
 
